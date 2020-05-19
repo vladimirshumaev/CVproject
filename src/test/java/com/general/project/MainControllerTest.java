@@ -1,6 +1,6 @@
-package com.example.testcrudSpringBootMustache;
+package com.general.project;
 
-import com.example.testcrudSpringBootMustache.controller.MainController;
+import com.general.project.controller.MainController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

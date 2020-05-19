@@ -1,4 +1,4 @@
-package com.example.testcrudSpringBootMustache.config;
+package com.general.project.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

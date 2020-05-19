@@ -1,4 +1,4 @@
-package com.example.testcrudSpringBootMustache.service;
+package com.general.project.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

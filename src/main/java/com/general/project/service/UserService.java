@@ -1,14 +1,14 @@
-package com.example.testcrudSpringBootMustache.service;
+package com.general.project.service;
 
-import com.example.testcrudSpringBootMustache.domain.Role;
-import com.example.testcrudSpringBootMustache.repos.UserRepo;
+import com.general.project.domain.Role;
+import com.general.project.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
-import com.example.testcrudSpringBootMustache.domain.User;
+import com.general.project.domain.User;
 import org.springframework.util.StringUtils;
 
 import java.util.Collections;

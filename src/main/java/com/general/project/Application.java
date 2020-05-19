@@ -1,4 +1,4 @@
-package com.example.testcrudSpringBootMustache;
+package com.general.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

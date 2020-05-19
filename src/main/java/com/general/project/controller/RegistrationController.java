@@ -1,7 +1,7 @@
-package com.example.testcrudSpringBootMustache.controller;
+package com.general.project.controller;
 
-import com.example.testcrudSpringBootMustache.domain.User;
-import com.example.testcrudSpringBootMustache.service.UserService;
+import com.general.project.domain.User;
+import com.general.project.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

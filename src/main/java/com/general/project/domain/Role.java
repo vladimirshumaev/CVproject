@@ -1,4 +1,4 @@
-package com.example.testcrudSpringBootMustache.domain;
+package com.general.project.domain;
 
 import org.springframework.security.core.GrantedAuthority;
 

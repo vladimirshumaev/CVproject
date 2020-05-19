@@ -1,8 +1,8 @@
-package com.example.testcrudSpringBootMustache.controller;
+package com.general.project.controller;
 
-import com.example.testcrudSpringBootMustache.domain.Role;
-import com.example.testcrudSpringBootMustache.domain.User;
-import com.example.testcrudSpringBootMustache.repos.UserRepo;
+import com.general.project.domain.Role;
+import com.general.project.domain.User;
+import com.general.project.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;

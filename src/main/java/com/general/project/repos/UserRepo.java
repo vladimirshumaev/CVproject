@@ -1,6 +1,6 @@
-package com.example.testcrudSpringBootMustache.repos;
+package com.general.project.repos;
 
-import com.example.testcrudSpringBootMustache.domain.User;
+import com.general.project.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepo extends JpaRepository<User, Long> {
